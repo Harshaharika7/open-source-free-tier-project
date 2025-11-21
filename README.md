@@ -15,6 +15,7 @@ Simple UI to demonstrate page navigation
 Runs on lightweight local development server
 
 📁 Project Structure
+
 project-folder/
 ├── public/
 │   ├── index.html
@@ -59,9 +60,6 @@ npm install
 3️⃣ Start the development server
 npm start
 
-The app will run at:
-http://localhost:3000
-
 📌 Available Scripts
 Command	Description
 npm start	Runs the app in development mode
@@ -79,4 +77,3 @@ Example:
 
 Harsha M
 GitHub: https://github.com/Harshaharika7
-
